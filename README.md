@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [URL here](https://www.frontendmentor.io/solutions/3-column-preview-card-component-using-css-grid-9DhDTSI55)
 - Live Site URL: [URL here](https://marcioufrj.github.io/challenge-newbie-column-preview-card/)
 
 ## My process
