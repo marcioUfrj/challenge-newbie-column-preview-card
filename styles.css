@@ -120,7 +120,7 @@ body {
 .model-item-link {
   font-size: var(--font-size-main);
   font-weight: var(--font-weight-light);
-  margin-top: 28px;
+  margin-top: 84px;
   background-color:  var(--neutral-very-light-gray);
   padding: 12px 30px;
   border: 2px solid var(--neutral-very-light-gray);
@@ -186,5 +186,9 @@ body {
     border-radius: 0 0;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
+  }
+
+  .model-item-link {
+    margin-top: 28px;
   }
 }
