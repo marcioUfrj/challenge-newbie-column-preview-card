@@ -48,11 +48,12 @@ Users should be able to:
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+ - Learn more about CSS Grid
+ - Develop my organizational skill to use "div" and classes more efficiently
 
 ### Useful resources
 
-- [CSS Tricks - GRID](https://css-tricks.com/snippets/css/complete-guide-grid/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [CSS Tricks - GRID](https://css-tricks.com/snippets/css/complete-guide-grid/) - This helped me for displaying the cards.
 
 ## Author
 
