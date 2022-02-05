@@ -50,6 +50,7 @@ Very light gray (background, headings, buttons): hsl(0, 0%, 95%)
 body {
   font-size: var(--font-size-main);
   font-family: 'Lexend Deca', sans-serif;
+  height: 850px;
 }
 
 .main-container {
@@ -62,7 +63,6 @@ body {
   flex-direction: row;
   align-items: center;
   margin: 0;
-  padding: 88 50;
 }
 
 /* GRID */
@@ -155,6 +155,9 @@ body {
 
 /* MOBILE */
 @media screen and (max-width: 400px) {
+  body {
+    height: 1550px;
+  }
   .main-container{ 
     max-width: var(--width-mobile);
     max-height: var(--height-mobile);
